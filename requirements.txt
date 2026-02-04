@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pypdf
+torch
+transformers==4.38.2
+sentence-transformers
+numpy==2.2.4
+pyarrow
