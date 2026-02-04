@@ -8,6 +8,8 @@ from langchain.chains import RetrievalQA
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.llms import HuggingFacePipeline
 
+
+
 from transformers import pipeline
 
 st.set_page_config(page_title="AI Study Assistant")
