@@ -2,6 +2,7 @@
 
 🔗 **Live App:**  
 https://aditya-raj4-rag-based-ai-study-assistant-app-bwuj0a.streamlit.app/
+https://rag-based-ai-study-assistant.onrender.com
 
 ---
 
