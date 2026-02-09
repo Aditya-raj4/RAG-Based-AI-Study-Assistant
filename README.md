@@ -1,7 +1,7 @@
 # 📚 AI Study Assistant (RAG-based PDF Q&A)
 
 🔗 **Live App:**  
-https://aditya-raj4-rag-based-ai-study-assistant-app-bwuj0a.streamlit.app/
+https://aditya-raj4-rag-based-ai-study-assistant-app-bwuj0a.streamlit.app/   OR  
 https://rag-based-ai-study-assistant.onrender.com
 
 ---
